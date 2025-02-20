@@ -1,5 +1,8 @@
 let headerElem = document.querySelector("header")
-headerElem.innerHTML="Kecske-káposzta-farkas-csónak"
+headerElem.innerHTML="<h1>Kecske-káposzta-farkas-csónak</h1>"
+
+let headerElem2 = document.querySelector("header")
+headerElem2.innerHTML="Kecske-káposzta-farkas-csónak"
 
 
 
